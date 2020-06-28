@@ -1,9 +1,7 @@
 
 package Test;
-import DAO.ProductoDAO;
-import DAO.ProductoDAOImplementar;
-import Model.Categoria;
-import Model.Producto;
+import DAO.*;
+import Model.*;
 import java.util.List;
 
 /**
